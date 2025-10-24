@@ -63,6 +63,10 @@ enp0s3 → Your network interface
 
 8.8.8.8 → Gateway or DNS IP
 
+
+
+
+
 Safety Note
 Replay (resending frames) can affect the network and other hosts.
 Only run this program in a controlled environment (like Ubuntu VM) or with explicit permission.
@@ -77,4 +81,5 @@ DSA_Assignment2/
 └── README.md         # Project documentation (this file)
 
 Author
+
 Zahra Abbas
